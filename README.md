@@ -1,6 +1,6 @@
 ## OLÁ,EU SOU O LAURO!!! 👋
 
-- 🔭 Eu estou cursando Análise e Desenvolvimento de sistemas
+- 🔭 Eu estou cursando Engenharia de software
   
 <div>
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=LauroPreviato&show_icons=true&theme=transparent">
